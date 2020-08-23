@@ -46,7 +46,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vyar20/react-redux-material-ui.git"
+    "url": "git+https://github.com/vyar20/template-react-material-ui-redux.git"
   },
   "author": "VYAR",
   "license": "ISC",
